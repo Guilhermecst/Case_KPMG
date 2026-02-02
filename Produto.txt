@@ -1,0 +1,371 @@
+cdProduto|Desc Produto|Quantidade em estoque
+1940|painel tv|10
+1551|tv|5
+1844|cadeira|8
+1827|lustres|9
+1959|geladeira inox|1
+1666|tv smart|2
+1522|painel para tv|1
+1325|televisao|4
+1866|lustre para sala|8
+1318|televisão|2
+1589|facas militares|10
+1481|lustres cristal|2
+1528|facas|2
+1429|faca artesanal|3
+1590|cadeiras|8
+1884|tv 32|8
+1233|tv 50 polegadas|10
+1375|radio antigo|6
+1549|facas artesanais|10
+1383|balança|10
+1922|painel de tv|8
+1227|lustre sala|9
+1804|lustres luminarias|3
+1366|balança precisão|6
+1768|geladeiras|2
+1741|moedas antigas|6
+1644|toca discos|8
+1803|lustre para quarto|6
+1213|lustres para sala|6
+1717|cadeira giratoria|7
+1917|telefone|1
+1317|militar|1
+1523|game boy color|10
+1304|mascara n95|3
+1937|guarda roupa|9
+1248|cadeira escritorio|2
+1742|cadeira gamer|10
+1740|papel de parede|7
+1852|escrivaninha|7
+1410|sofa|7
+1934|penteadeira|7
+1310|quadros decorativos|9
+1923|guarda roupa casal|2
+1388|criado mudo|10
+1826|jogo de panelas|3
+1825|abajur|7
+1830|caixa organizadora|3
+1636|máscara n95|3
+1858|cama box casal|9
+1283|tapetes sala|7
+1963|cortinas sala|7
+1982|penteadeira camarim|6
+1452|cortina blackout|2
+1250|guarda roupa solteiro|5
+1234|espelho|1
+1631|tapete|1
+1663|cama infantil|2
+1625|papel parede|7
+1747|mesa de jantar|2
+1729|sofa retratil|1
+1411|puff|8
+1970|mesa|10
+1778|cabeceira casal|3
+1349|luminarias pendentes|9
+1342|poltronas decorativas|3
+1632|prateleira|4
+1358|churrasqueira eletrica|7
+1746|panela de pressão|5
+1275|sofá|4
+1906|aparador|10
+1328|churrasqueira|6
+1566|relogio smartwatch|3
+1255|smartphone|6
+1823|celular xiaomin|8
+1309|iphone 7|3
+1849|iphone|9
+1855|xiaomi|4
+1399|iphone 11|5
+1447|celular samsung|6
+1292|iphone 8|10
+1352|iphone 7 plus|7
+1312|iphone 8 plus|2
+1470|celulares|8
+1862|iphone x|10
+1592|apple watch|8
+1357|iphone xr|10
+1745|redmi note 8|8
+1365|headset|5
+1341|iphone 11 pro|1
+1359|repetidor wifi|3
+1405|samsung a50|10
+1859|iphone 6s|1
+1542|iphone 6|8
+1630|samsung a10|4
+1673|mi band 4|4
+1575|relógio smartwatch|8
+1415|smartwatch|6
+1851|moto g8 plus|7
+1724|carregador portatil|1
+1691|motorola one|3
+1334|galaxy s10|3
+1373|samsung a20|8
+1752|iphone 11 pro max|6
+1345|motorola|4
+1936|fonte automotiva|4
+1620|samsung a30|2
+1722|suporte celular|6
+1733|kit ferramentas|3
+1494|chuveiro|10
+1853|torneira banheiro|1
+1256|armário de cozinha|2
+1675|compressor ar|2
+1751|serra circular|3
+1867|lixadeira|8
+1274|ferramentas|7
+1913|caixa de ferramentas|4
+1728|papel de parede infantil|3
+1637|máquina de solda|9
+1426|maquina de solda|6
+1382|serra tico tico|5
+1320|chuveiro lorenzetti|8
+1776|cuba banheiro|9
+1783|politriz automotiva|7
+1902|escada aluminio|10
+1556|multimetro digital|3
+1935|lixadeira orbital|9
+1500|esmerilhadeira|10
+1244|chapa lanches|7
+1978|pulverizador manual|10
+1840|rocadeira gasolina|10
+1719|detector metais|8
+1510|cabelo humano|10
+1378|pistolada pintura|7
+1834|maleta ferramentas|7
+1400|transformers|4
+1209|politriz|7
+1991|serra marmore|8
+1908|pia de banheiro|4
+1815|chuveiro eletrico|10
+1261|vaso sanitario|7
+1996|porta de correr|1
+1604|martelete rompedor|9
+1517|inversora solda|5
+1302|porta de madeira|3
+1929|makita|8
+1837|notebook|4
+1709|pc gamer|7
+1297|tablet|7
+1513|impressora|3
+1814|gabinete gamer|4
+1831|notebook gamer|1
+1909|macbook|5
+1738|monitor|5
+1573|placa de video|7
+1491|tablet samsung|7
+1464|pc gamer completo|9
+1558|ssd|3
+1507|ssd 240gb|10
+1561|ipad|3
+1889|webcam|5
+1723|roteador|6
+1944|hd externo|9
+1586|impressora multifuncional|6
+1647|mouse|1
+1402|teclado mecanico|1
+1562|headset gamer|4
+1512|gabinete|8
+1850|mouse sem fio|5
+1609|teclado|7
+1305|mouse gamer|10
+1658|netbook|8
+1735|notebook i5|1
+1749|tablet infantil|8
+1324|impressora 3d|2
+1377|notebook samsung|2
+1254|cpu|9
+1915|painel|6
+1869|ssd 120gb|1
+1569|suporte notebook|3
+1207|notbook|4
+1916|cpu gamer|5
+1571|notebook dell|7
+1984|teclado gamer|6
+1796|redimir note 8|2
+1526|noot book|1
+1265|marvel legends|9
+1873|harry potter|5
+1763|xiaomu redimir note 8|4
+1920|redimir note 7|1
+1677|coisas de bebe|5
+1594|redimi note 8|9
+1449|cloth myth|6
+1427|biblia feminina|7
+1215|maconha|10
+1532|tenda|9
+1577|livro|1
+1476|biblia|3
+1567|saraiva|6
+1903|barbante barroco|8
+1550|marca texto|3
+1570|thera band|9
+1839|bíblia sagrada|1
+1461|coisas para bebe|9
+1953|redimir airdots|6
+1384|homem aranha|8
+1332|bruna tavares|9
+1525|santa fe|3
+1597|boris feminino|7
+1296|xiaomu redimir note 7|10
+1322|coisas de cozinha|6
+1224|beleza na web|6
+1758|batman|3
+1362|lojas marisa|1
+1708|mansao|5
+1315|livro infantil|4
+1273|the walking dead|1
+1861|biblia de estudo|4
+1777|cursos|9
+1353|roupas femininas|7
+1816|carros|2
+1537|furadeira|7
+1947|mascara pff2|5
+1914|mesa escritorio|9
+1872|furadeira parafusadeira|8
+1987|poltrona|2
+1654|protetor facial|5
+1285|forno eletrico|7
+1288|mascara proteção respiratória|2
+1988|cafeteira|9
+1739|fritadeira eletrica|10
+1220|mascara respiratoria|7
+1678|mascara n95 3m|8
+1766|panelas|4
+1337|mascara 3m|10
+1515|papel contact|9
+1659|secador profissional|9
+1253|secador|10
+1977|maquina de lavar|1
+1367|roupas|9
+1344|lampada led|4
+1475|furadeira de bancada|2
+1450|máquina de lavar|4
+1938|protetor facial odontologico|1
+1533|compressor pintura|1
+1539|lava jato|5
+1615|lavadora pressao|5
+1282|mascara n95 pff2|7
+1335|poltronas|10
+1734|cafeteira expresso|6
+1363|roupas masculinas|7
+1725|kit sobrevivencia|9
+1688|panela|7
+1812|roupa feminina|1
+1465|fritadeira airfryer|4
+1748|cafeteira eletrica|9
+1600|elastico exercicio|8
+1421|capacete|8
+1260|airsoft|4
+1726|halteres|1
+1890|bicicleta|6
+1527|botas femininas|2
+1926|colchonete academia|7
+1918|sapateira|8
+1270|esteira eletrica|9
+1595|sapatos femininos|6
+1626|tenis nike|6
+1439|corta vento|2
+1662|rolo de treino|9
+1972|pesos musculacao|1
+1356|computador|3
+1588|capacete ls2|6
+1899|anilhas musculacao|6
+1960|bicicleta aro 29|10
+1374|bicicleta ergometrica|3
+1287|capacete masculino|4
+1806|capacete feminino|7
+1581|kit halteres|8
+1997|bota feminina|8
+1780|anilhas|10
+1638|alteresde musculacao|2
+1821|trx|7
+1459|canivete|8
+1731|tapete yoga|6
+1263|jump|7
+1845|computador gamer|2
+1655|bicicleta motorizada|4
+1462|academia|4
+1809|kit anilhas|9
+1484|halter|1
+1524|caneleira peso|3
+1969|bicicleta eletrica|6
+1846|corda de pular|6
+1453|computador completo|5
+1702|elastico extensor|3
+1251|esteira|7
+1700|all star|3
+1838|ovo de pascoa|9
+1971|ovos de pascoa|8
+1989|fruteira|9
+1385|chocolate|9
+1961|whey|4
+1272|crocs|4
+1848|pipoqueira|3
+1727|arroz|7
+1789|forma de bolo|3
+1681|gel xed|1
+1311|whey proten|4
+1241|bola|1
+1438|libid gel|5
+1628|whey isolado|1
+1847|capsulas nespresso|4
+1999|alcoo em gel|10
+1770|pasta de amendoim|9
+1786|propolis verde|2
+1690|gel|5
+1958|massinha|2
+1901|dolce gusto|1
+1765|all star cano alto|7
+1391|confeitaria|2
+1572|whisky|8
+1764|barra de chocolate|7
+1891|vinho|6
+1771|super cha sb|1
+1394|geleia real|5
+1584|j4 plus|3
+1269|capsulas dolce gusto|7
+1607|cesta de chocolate|9
+1602|cafe racer|8
+1888|marmita|8
+1698|cesta básica|1
+1531|forma de ovo pascoa|1
+1259|gerador energia|2
+1646|gerador|4
+1881|gerador de energia|5
+1919|triturador forrageiro|9
+1286|cocha de casal|7
+1870|cocha queen|4
+1661|comedouro automatico|3
+1705|gerador eolico|8
+1732|grade de proteção|5
+1860|gerador gasolina|3
+1564|kit cerca eletrica|4
+1371|café|3
+1514|ordenhadeira mecanica|10
+1416|misturador de ração|3
+1879|ração premier|5
+1396|ração militar|5
+1206|grade|7
+1543|ordenhadeira|10
+1832|borrifador pressao|8
+1540|gerador diesel|3
+1856|cocha de solteiro|1
+1319|triturador de milho|2
+1802|sacos para silagem|10
+1924|abelha rainha|6
+1268|ordenha leiteira|2
+1360|ensiladeira|2
+1660|bebedouro para galinhas|4
+1720|mini gerador|3
+1343|bebedouro galinha|5
+1878|caixa para abelha jatai|2
+1875|ordenha|6
+1440|caixa abelha|5
+1822|nelore|9
+1696|angus|6
+1593|ovelha negra|3
+1811|galinha|6
+1380|cordeiro|1
+1713|salmon|5
+1419|bacalhau|1
